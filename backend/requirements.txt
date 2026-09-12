@@ -25,7 +25,6 @@ pydantic==2.13.4
 pydantic_core==2.46.4
 pyjokes==0.8.3
 PyMySQL==1.2.0
-pypiwin32==223
 python-dotenv==1.2.2
 python-jose==3.5.0
 python-multipart==0.0.32
